@@ -1,0 +1,10 @@
+Debug
+Release
+Backup
+ipch
+*.ncb
+*.suo
+*.user
+*.opendb
+*.sdf
+*.htm*
