@@ -2,6 +2,8 @@ Debug
 Release
 Backup
 ipch
+build
+lib
 *.ncb
 *.suo
 *.user
